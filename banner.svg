@@ -69,14 +69,14 @@
     <text x="454" y="166" text-anchor="middle"
       font-family="'Arial Black', 'Impact', sans-serif"
       font-size="116" font-weight="900" letter-spacing="20"
-      fill="none" stroke="rgba(138,97,255,0.08)" stroke-width="1.5">NISARG</text>
+      fill="none" stroke="rgba(138,97,255,0.08)" stroke-width="1.5">KUSHAL</text>
 
     <!-- Main name -->
     <text x="450" y="160" text-anchor="middle"
       font-family="'Arial Black', 'Impact', sans-serif"
       font-size="116" font-weight="900" letter-spacing="20"
       fill="url(#nameGrad)" filter="url(#glow)">
-      NISARG
+      KUSHAL
       <animate attributeName="opacity" values="1;0.88;1;0.93;1" dur="6s" repeatCount="indefinite"/>
     </text>
 
@@ -93,7 +93,7 @@
       <animate attributeName="opacity" values="1;0.4;1" dur="2.2s" repeatCount="indefinite"/>
     </circle>
     <text x="250" y="218" font-family="Arial, sans-serif" font-size="12"
-      fill="rgba(238,234,248,0.72)" letter-spacing="3.5">Developer</text>
+      fill="rgba(238,234,248,0.72)" letter-spacing="3.5">Full Stack Developer</text>
 
     <!-- Separator dot 1 -->
     <circle cx="358" cy="213" r="2.5" fill="#8a61ff" opacity="0.7"/>
@@ -107,7 +107,7 @@
 
     <!-- Role: Video Editor -->
     <text x="612" y="218" font-family="Arial, sans-serif" font-size="12"
-      fill="rgba(238,234,248,0.72)" letter-spacing="3.5">Video Editor</text>
+      fill="rgba(238,234,248,0.72)" letter-spacing="3.5">LEARNING ML & GENAI</text>
 
     <!-- Ambient floating dots -->
     <circle cx="60" cy="55" r="1.5" fill="#8a61ff">
