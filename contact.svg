@@ -1,0 +1,184 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#07060f"/>
+      <stop offset="100%" style="stop-color:#0d0b1a"/>
+    </linearGradient>
+    <radialGradient id="gCenter" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" style="stop-color:#5b35cc;stop-opacity:0.13"/>
+      <stop offset="100%" style="stop-color:#07060f;stop-opacity:0"/>
+    </radialGradient>
+    <linearGradient id="cardBase" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#141228"/>
+      <stop offset="100%" style="stop-color:#0e0c1c"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="tglow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#8a61ff" stroke-width="0.3" stroke-opacity="0.055"/>
+    </pattern>
+    <clipPath id="mc"><rect width="900" height="300" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#mc)">
+    <!-- Background -->
+    <rect width="900" height="300" fill="url(#bg)"/>
+    <rect width="900" height="300" fill="url(#gCenter)"/>
+    <rect width="900" height="300" fill="url(#grid)"/>
+
+    <!-- Border side lines -->
+    <line x1="0" y1="0" x2="0" y2="300" stroke="#8a61ff" stroke-width="2" stroke-opacity="0.22"/>
+    <line x1="900" y1="0" x2="900" y2="300" stroke="#8a61ff" stroke-width="2" stroke-opacity="0.22"/>
+
+    <!-- Corner brackets -->
+    <polyline points="22,40 22,20 42,20" fill="none" stroke="#8a61ff" stroke-width="1.5" stroke-opacity="0.45"/>
+    <polyline points="858,20 878,20 878,40" fill="none" stroke="#8a61ff" stroke-width="1.5" stroke-opacity="0.45"/>
+    <polyline points="22,260 22,280 42,280" fill="none" stroke="#8a61ff" stroke-width="1.5" stroke-opacity="0.45"/>
+    <polyline points="858,280 878,280 878,260" fill="none" stroke="#8a61ff" stroke-width="1.5" stroke-opacity="0.45"/>
+
+    <!-- ══ TITLE ══ -->
+    <text x="450" y="44" text-anchor="middle"
+      font-family="'Arial Black', Impact, sans-serif"
+      font-size="16" font-weight="900" letter-spacing="10"
+      fill="#d4c8ff" filter="url(#tglow)">✦   ESTABLISH CONTACT   ✦</text>
+    <line x1="300" y1="54" x2="600" y2="54" stroke="#8a61ff" stroke-width="0.6" stroke-opacity="0.35"/>
+
+    <!-- ══════════════════════════════════════════
+         CARD LAYOUT: 4 cards, each 186px wide
+         gaps: 36px left margin, 14px between cards
+         x positions: 36, 236, 436, 636
+    ══════════════════════════════════════════ -->
+
+    <!-- ── GITHUB card ── -->
+    <g transform="translate(36, 70)">
+      <rect width="186" height="172" rx="10" fill="url(#cardBase)" stroke="#b89cff" stroke-width="0.7" stroke-opacity="0.28"/>
+      <!-- top accent -->
+      <rect width="186" height="3" rx="1.5" fill="#b89cff" fill-opacity="0.65"/>
+      <!-- number tag -->
+      <rect x="14" y="14" width="32" height="14" rx="3" fill="#b89cff" fill-opacity="0.08" stroke="#b89cff" stroke-width="0.5" stroke-opacity="0.25"/>
+      <text x="30" y="24.5" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#b89cff" fill-opacity="0.7" letter-spacing="1">01</text>
+
+      <!-- GitHub icon: circle + octocat silhouette via paths -->
+      <circle cx="93" cy="72" r="24" fill="none" stroke="#b89cff" stroke-width="1.2" stroke-opacity="0.2"/>
+      <!-- Simplified GitHub mark: head circle + body -->
+      <circle cx="93" cy="68" r="14" fill="none" stroke="#b89cff" stroke-width="1.8" stroke-opacity="0.7" filter="url(#glow)"/>
+      <path d="M 80 78 Q 80 88 86 90 L 86 86 Q 83 86 83 82" fill="none" stroke="#b89cff" stroke-width="1.6" stroke-opacity="0.65" stroke-linecap="round"/>
+      <path d="M 106 78 Q 106 88 100 90 L 100 86 Q 103 86 103 82" fill="none" stroke="#b89cff" stroke-width="1.6" stroke-opacity="0.65" stroke-linecap="round"/>
+      <line x1="86" y1="90" x2="100" y2="90" stroke="#b89cff" stroke-width="1.6" stroke-opacity="0.65" stroke-linecap="round"/>
+
+      <!-- divider -->
+      <line x1="16" y1="108" x2="170" y2="108" stroke="#b89cff" stroke-width="0.5" stroke-opacity="0.15"/>
+
+      <!-- platform label -->
+      <text x="93" y="124" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="11" font-weight="700"
+        fill="#eeeaf8" letter-spacing="4">GITHUB</text>
+      <!-- handle -->
+      <text x="93" y="140" text-anchor="middle"
+        font-family="monospace" font-size="9"
+        fill="#b89cff" fill-opacity="0.7" letter-spacing="0.8">kushal-24</text>
+
+      <!-- CTA -->
+      <rect x="0" y="152" width="186" height="20" rx="0" fill="#b89cff" fill-opacity="0.07"/>
+      <rect x="0" y="162" width="186" height="10" rx="0" fill="#b89cff" fill-opacity="0.03"/>
+      <text x="93" y="165" text-anchor="middle"
+        font-family="monospace" font-size="8" fill="#b89cff" fill-opacity="0.65" letter-spacing="2.5">FOLLOW  →</text>
+    </g>
+
+    <!-- ── LINKEDIN card ── -->
+    <g transform="translate(236, 70)">
+      <rect width="186" height="172" rx="10" fill="url(#cardBase)" stroke="#60a5fa" stroke-width="0.7" stroke-opacity="0.25"/>
+      <rect width="186" height="3" rx="1.5" fill="#60a5fa" fill-opacity="0.6"/>
+      <rect x="14" y="14" width="32" height="14" rx="3" fill="#60a5fa" fill-opacity="0.08" stroke="#60a5fa" stroke-width="0.5" stroke-opacity="0.25"/>
+      <text x="30" y="24.5" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#60a5fa" fill-opacity="0.7" letter-spacing="1">02</text>
+
+      <!-- LinkedIn icon: rounded square + "in" -->
+      <circle cx="93" cy="72" r="24" fill="none" stroke="#60a5fa" stroke-width="1.2" stroke-opacity="0.18"/>
+      <rect x="79" y="57" width="28" height="28" rx="6" fill="#0077b5" fill-opacity="0.75" stroke="#60a5fa" stroke-width="1" stroke-opacity="0.4" filter="url(#glow)"/>
+      <!-- "in" text inside box -->
+      <text x="93" y="76" text-anchor="middle"
+        font-family="'Arial Black', sans-serif" font-size="15" font-weight="900"
+        fill="#ffffff" fill-opacity="0.95">in</text>
+
+      <line x1="16" y1="108" x2="170" y2="108" stroke="#60a5fa" stroke-width="0.5" stroke-opacity="0.15"/>
+
+      <text x="93" y="124" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="11" font-weight="700"
+        fill="#eeeaf8" letter-spacing="4">LINKEDIN</text>
+      <text x="93" y="140" text-anchor="middle"
+        font-family="monospace" font-size="9"
+        fill="#60a5fa" fill-opacity="0.7" letter-spacing="0.8">Connect with me</text>
+
+      <rect x="0" y="152" width="186" height="20" fill="#60a5fa" fill-opacity="0.07"/>
+      <rect x="0" y="162" width="186" height="10" fill="#60a5fa" fill-opacity="0.03"/>
+      <text x="93" y="165" text-anchor="middle"
+        font-family="monospace" font-size="8" fill="#60a5fa" fill-opacity="0.65" letter-spacing="2.5">CONNECT  →</text>
+    </g>
+
+    <!-- ── INSTAGRAM card ── -->
+    <g transform="translate(436, 70)">
+      <rect width="186" height="172" rx="10" fill="url(#cardBase)" stroke="#e879f9" stroke-width="0.7" stroke-opacity="0.25"/>
+      <rect width="186" height="3" rx="1.5" fill="#e879f9" fill-opacity="0.55"/>
+      <rect x="14" y="14" width="32" height="14" rx="3" fill="#e879f9" fill-opacity="0.08" stroke="#e879f9" stroke-width="0.5" stroke-opacity="0.25"/>
+      <text x="30" y="24.5" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#e879f9" fill-opacity="0.7" letter-spacing="1">03</text>
+
+      <!-- Instagram icon: rounded square outline + inner circle + dot -->
+      <circle cx="93" cy="72" r="24" fill="none" stroke="#e879f9" stroke-width="1.2" stroke-opacity="0.18"/>
+      <rect x="79" y="57" width="28" height="28" rx="7" fill="none" stroke="#e879f9" stroke-width="1.8" stroke-opacity="0.75" filter="url(#glow)"/>
+      <circle cx="93" cy="71" r="7.5" fill="none" stroke="#e879f9" stroke-width="1.5" stroke-opacity="0.75"/>
+      <circle cx="103" cy="61" r="2" fill="#e879f9" fill-opacity="0.85"/>
+
+      <line x1="16" y1="108" x2="170" y2="108" stroke="#e879f9" stroke-width="0.5" stroke-opacity="0.15"/>
+
+      <text x="93" y="124" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="11" font-weight="700"
+        fill="#eeeaf8" letter-spacing="4">INSTAGRAM</text>
+      <text x="93" y="140" text-anchor="middle"
+        font-family="monospace" font-size="9"
+        fill="#e879f9" fill-opacity="0.7" letter-spacing="0.8">@your_handle</text>
+
+      <rect x="0" y="152" width="186" height="20" fill="#e879f9" fill-opacity="0.07"/>
+      <rect x="0" y="162" width="186" height="10" fill="#e879f9" fill-opacity="0.03"/>
+      <text x="93" y="165" text-anchor="middle"
+        font-family="monospace" font-size="8" fill="#e879f9" fill-opacity="0.65" letter-spacing="2.5">FOLLOW  →</text>
+    </g>
+
+    <!-- ── EMAIL card ── -->
+    <g transform="translate(636, 70)">
+      <rect width="186" height="172" rx="10" fill="url(#cardBase)" stroke="#8a61ff" stroke-width="0.7" stroke-opacity="0.3"/>
+      <rect width="186" height="3" rx="1.5" fill="#8a61ff" fill-opacity="0.65"/>
+      <rect x="14" y="14" width="32" height="14" rx="3" fill="#8a61ff" fill-opacity="0.08" stroke="#8a61ff" stroke-width="0.5" stroke-opacity="0.25"/>
+      <text x="30" y="24.5" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#8a61ff" fill-opacity="0.7" letter-spacing="1">04</text>
+
+      <!-- Email icon: envelope body + flap line -->
+      <circle cx="93" cy="72" r="24" fill="none" stroke="#8a61ff" stroke-width="1.2" stroke-opacity="0.18"/>
+      <rect x="75" y="59" width="36" height="26" rx="4" fill="none" stroke="#8a61ff" stroke-width="1.8" stroke-opacity="0.72" filter="url(#glow)"/>
+      <polyline points="75,63 93,76 111,63" fill="none" stroke="#8a61ff" stroke-width="1.5" stroke-opacity="0.72" stroke-linejoin="round"/>
+
+      <line x1="16" y1="108" x2="170" y2="108" stroke="#8a61ff" stroke-width="0.5" stroke-opacity="0.15"/>
+
+      <text x="93" y="124" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="11" font-weight="700"
+        fill="#eeeaf8" letter-spacing="4">EMAIL</text>
+      <text x="93" y="140" text-anchor="middle"
+        font-family="monospace" font-size="9"
+        fill="#8a61ff" fill-opacity="0.7" letter-spacing="0.8">Drop a message</text>
+
+      <rect x="0" y="152" width="186" height="20" fill="#8a61ff" fill-opacity="0.07"/>
+      <rect x="0" y="162" width="186" height="10" fill="#8a61ff" fill-opacity="0.03"/>
+      <text x="93" y="165" text-anchor="middle"
+        font-family="monospace" font-size="8" fill="#8a61ff" fill-opacity="0.65" letter-spacing="2.5">CONTACT  →</text>
+    </g>
+
+    <!-- bottom dots -->
+    <circle cx="448" cy="264" r="1.2" fill="#8a61ff" fill-opacity="0.35"/>
+    <circle cx="428" cy="264" r="0.8" fill="#8a61ff" fill-opacity="0.2"/>
+    <circle cx="468" cy="264" r="0.8" fill="#8a61ff" fill-opacity="0.2"/>
+  </g>
+</svg>
