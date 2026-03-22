@@ -174,25 +174,5 @@
 
     <!-- divider -->
     <line x1="60" y1="346" x2="840" y2="346" stroke="#8a61ff" stroke-width="0.5" stroke-opacity="0.1"/>
-
-    <!-- ══ VIDEO & CREATIVE ══ -->
-    <text x="450" y="366" text-anchor="middle" font-family="Arial,sans-serif"
-      font-size="9.5" fill="#7068a0" letter-spacing="4">VIDEO  &amp;  CREATIVE</text>
-
-    <!-- Premiere Pro — centered pair -->
-    <g transform="translate(253,374)">
-      <rect width="172" height="54" rx="8" fill="url(#card)" stroke="#9999ff" stroke-width="0.6" stroke-opacity="0.25"/>
-      <rect width="172" height="2.5" y="0" rx="1" fill="#9999ff" fill-opacity="0.55"/>
-      <text x="16" y="26" font-family="'Arial Black',sans-serif" font-size="12" fill="#9999ff" filter="url(#glow)">Pr</text>
-      <text x="16" y="42" font-family="Arial,sans-serif" font-size="9" fill="#d4c8ff" letter-spacing="2" fill-opacity="0.8">Adobe Premiere Pro</text>
-    </g>
-    <!-- After Effects -->
-    <g transform="translate(441,374)">
-      <rect width="172" height="54" rx="8" fill="url(#card)" stroke="#c084fc" stroke-width="0.6" stroke-opacity="0.25"/>
-      <rect width="172" height="2.5" y="0" rx="1" fill="#c084fc" fill-opacity="0.55"/>
-      <text x="16" y="26" font-family="'Arial Black',sans-serif" font-size="12" fill="#c084fc" filter="url(#glow)">Ae</text>
-      <text x="16" y="42" font-family="Arial,sans-serif" font-size="9" fill="#d4c8ff" letter-spacing="2" fill-opacity="0.8">Adobe After Effects</text>
-    </g>
-
   </g>
 </svg>
