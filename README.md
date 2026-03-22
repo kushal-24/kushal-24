@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER — hosted as banner.svg in same repo -->
-<img src="./banner.svg" width="100%" alt="Nisarg Banner"/>
+<img src="./banner.svg" width="100%" alt="Kushal Banner"/>
 
 <br/>
 
@@ -16,17 +16,17 @@
 
 <br/>
 
-<a href="https://github.com/code-nisarg">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=transparent&hide_border=true&title_color=8a61ff&icon_color=c084fc&text_color=d4c8ff&bg_color=0d0b1a&ring_color=8a61ff&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/code-kushal24">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=code-kushal24&show_icons=true&theme=transparent&hide_border=true&title_color=8a61ff&icon_color=c084fc&text_color=d4c8ff&bg_color=0d0b1a&ring_color=8a61ff&include_all_commits=true&count_private=true"/>
 </a>&nbsp;
-<a href="https://github.com/code-nisarg">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-nisarg&layout=compact&theme=transparent&hide_border=true&title_color=8a61ff&text_color=d4c8ff&bg_color=0d0b1a&langs_count=6"/>
+<a href="https://github.com/code-kushal24">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-kushal24&layout=compact&theme=transparent&hide_border=true&title_color=8a61ff&text_color=d4c8ff&bg_color=0d0b1a&langs_count=6"/>
 </a>
 
 <br/><br/>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=code-nisarg&theme=transparent&hide_border=true&ring=8a61ff&fire=c084fc&currStreakLabel=b89cff&sideLabels=8a61ff&dates=7068a0&currStreakNum=d4c8ff&sideNums=d4c8ff&background=0d0b1a&stroke=1a1630"/>
+  <img src="https://streak-stats.demolab.com?user=code-kushal24&theme=transparent&hide_border=true&ring=8a61ff&fire=c084fc&currStreakLabel=b89cff&sideLabels=8a61ff&dates=7068a0&currStreakNum=d4c8ff&sideNums=d4c8ff&background=0d0b1a&stroke=1a1630"/>
 </a>
 
 <br/><br/>
@@ -37,7 +37,7 @@
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=code-nisarg&bg_color=0d0b1a&color=b89cff&line=8a61ff&point=c084fc&area=true&area_color=8a61ff&hide_border=true&title_color=8a61ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=code-kushal24&bg_color=0d0b1a&color=b89cff&line=8a61ff&point=c084fc&area=true&area_color=8a61ff&hide_border=true&title_color=8a61ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
@@ -85,7 +85,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=code-nisarg&style=for-the-badge&color=8a61ff&labelColor=0d0b1a&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=code-kushal24&style=for-the-badge&color=8a61ff&labelColor=0d0b1a&label=PROFILE+VIEWS)
 
 <br/>
 
