@@ -1,0 +1,44 @@
+<svg width="186" height="172" viewBox="0 0 186 172" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBase" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#141228"/>
+      <stop offset="100%" style="stop-color:#0e0c1c"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#8a61ff" stroke-width="0.3" stroke-opacity="0.055"/>
+    </pattern>
+    <clipPath id="cc"><rect width="186" height="172" rx="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#cc)">
+    <rect width="186" height="172" fill="url(#cardBase)"/>
+    <rect width="186" height="172" fill="url(#grid)"/>
+    <!-- top accent -->
+    <rect width="186" height="3" rx="1.5" fill="#b89cff" fill-opacity="0.65"/>
+    <!-- number tag -->
+    <rect x="14" y="14" width="32" height="14" rx="3" fill="#b89cff" fill-opacity="0.08" stroke="#b89cff" stroke-width="0.5" stroke-opacity="0.25"/>
+    <text x="30" y="24.5" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#b89cff" fill-opacity="0.7" letter-spacing="1">01</text>
+    <!-- border -->
+    <rect width="186" height="172" rx="10" fill="none" stroke="#b89cff" stroke-width="0.7" stroke-opacity="0.28"/>
+    <!-- ambient ring -->
+    <circle cx="93" cy="72" r="24" fill="none" stroke="#b89cff" stroke-width="1.2" stroke-opacity="0.12"/>
+    <!-- GitHub icon -->
+    <circle cx="93" cy="68" r="14" fill="none" stroke="#b89cff" stroke-width="1.8" stroke-opacity="0.7" filter="url(#glow)"/>
+    <path d="M 80 78 Q 80 88 86 90 L 86 86 Q 83 86 83 82" fill="none" stroke="#b89cff" stroke-width="1.6" stroke-opacity="0.65" stroke-linecap="round"/>
+    <path d="M 106 78 Q 106 88 100 90 L 100 86 Q 103 86 103 82" fill="none" stroke="#b89cff" stroke-width="1.6" stroke-opacity="0.65" stroke-linecap="round"/>
+    <line x1="86" y1="90" x2="100" y2="90" stroke="#b89cff" stroke-width="1.6" stroke-opacity="0.65" stroke-linecap="round"/>
+    <!-- divider -->
+    <line x1="16" y1="108" x2="170" y2="108" stroke="#b89cff" stroke-width="0.5" stroke-opacity="0.15"/>
+    <!-- name -->
+    <text x="93" y="124" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#eeeaf8" letter-spacing="4">GITHUB</text>
+    <!-- handle -->
+    <text x="93" y="140" text-anchor="middle" font-family="monospace" font-size="9" fill="#b89cff" fill-opacity="0.7" letter-spacing="0.8">kushal-24</text>
+    <!-- CTA -->
+    <rect x="0" y="152" width="186" height="20" fill="#b89cff" fill-opacity="0.07"/>
+    <rect x="0" y="162" width="186" height="10" fill="#b89cff" fill-opacity="0.03"/>
+    <text x="93" y="165" text-anchor="middle" font-family="monospace" font-size="8" fill="#b89cff" fill-opacity="0.65" letter-spacing="2.5">FOLLOW  →</text>
+  </g>
+</svg>

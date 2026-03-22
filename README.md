@@ -37,6 +37,6 @@
 
 <br/><br/>
 
-<img src="./contact.svg" width="100%" alt="Connect with me"/>
+<a href="https://github.com/kushal-24" target="_blank"><img src="./contact-github.svg" width="24%" alt="GitHub"/></a><a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="./contact-linkedin.svg" width="24%" alt="LinkedIn"/></a><a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank"><img src="./contact-instagram.svg" width="24%" alt="Instagram"/></a><a href="mailto:YOUR_EMAIL" target="_blank"><img src="./contact-email.svg" width="24%" alt="Email"/></a>
 
 </div>

@@ -1,0 +1,36 @@
+<svg width="186" height="172" viewBox="0 0 186 172" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBase" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#141228"/>
+      <stop offset="100%" style="stop-color:#0e0c1c"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#8a61ff" stroke-width="0.3" stroke-opacity="0.055"/>
+    </pattern>
+    <clipPath id="cc"><rect width="186" height="172" rx="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#cc)">
+    <rect width="186" height="172" fill="url(#cardBase)"/>
+    <rect width="186" height="172" fill="url(#grid)"/>
+    <rect width="186" height="3" rx="1.5" fill="#60a5fa" fill-opacity="0.6"/>
+    <rect x="14" y="14" width="32" height="14" rx="3" fill="#60a5fa" fill-opacity="0.08" stroke="#60a5fa" stroke-width="0.5" stroke-opacity="0.25"/>
+    <text x="30" y="24.5" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#60a5fa" fill-opacity="0.7" letter-spacing="1">02</text>
+    <rect width="186" height="172" rx="10" fill="none" stroke="#60a5fa" stroke-width="0.7" stroke-opacity="0.25"/>
+    <!-- ambient ring -->
+    <circle cx="93" cy="72" r="24" fill="none" stroke="#60a5fa" stroke-width="1.2" stroke-opacity="0.12"/>
+    <!-- LinkedIn box -->
+    <rect x="79" y="57" width="28" height="28" rx="6" fill="#0077b5" fill-opacity="0.75" stroke="#60a5fa" stroke-width="1" stroke-opacity="0.4" filter="url(#glow)"/>
+    <text x="93" y="76" text-anchor="middle" font-family="'Arial Black', sans-serif" font-size="15" font-weight="900" fill="#ffffff" fill-opacity="0.95">in</text>
+    <!-- divider -->
+    <line x1="16" y1="108" x2="170" y2="108" stroke="#60a5fa" stroke-width="0.5" stroke-opacity="0.15"/>
+    <text x="93" y="124" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#eeeaf8" letter-spacing="4">LINKEDIN</text>
+    <text x="93" y="140" text-anchor="middle" font-family="monospace" font-size="9" fill="#60a5fa" fill-opacity="0.7" letter-spacing="0.8">Connect with me</text>
+    <rect x="0" y="152" width="186" height="20" fill="#60a5fa" fill-opacity="0.07"/>
+    <rect x="0" y="162" width="186" height="10" fill="#60a5fa" fill-opacity="0.03"/>
+    <text x="93" y="165" text-anchor="middle" font-family="monospace" font-size="8" fill="#60a5fa" fill-opacity="0.65" letter-spacing="2.5">CONNECT  →</text>
+  </g>
+</svg>
