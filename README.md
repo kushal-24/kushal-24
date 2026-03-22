@@ -1,4 +1,4 @@
-<div align="center">
+< align="center">
 
 <!-- BANNER — hosted as banner.svg in same repo -->
 <img src="./banner.svg" width="100%" alt="Kushal Banner"/>
@@ -38,5 +38,9 @@
 <br/><br/>
 
 <a href="https://github.com/kushal-24" target="_blank"><img src="./contact-github.svg" width="24%" alt="GitHub"/></a><a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="./contact-linkedin.svg" width="24%" alt="LinkedIn"/></a><a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank"><img src="./contact-instagram.svg" width="24%" alt="Instagram"/></a><a href="mailto:YOUR_EMAIL" target="_blank"><img src="./contact-email.svg" width="24%" alt="Email"/></a>
+
+*Built with 💜 and way too many late nights*
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8a61ff&height=100&section=footer&text=Eat%20Bugs%20Like%20Pac-Man%20%E2%80%A2%20Build%20Cool%20Things%20%E2%80%A2%20Keep%20Coding&fontSize=18&fontColor=d4c8ff&fontAlignY=65&animation=twinkling"/>
 
 </div>
