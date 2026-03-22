@@ -33,45 +33,17 @@
 
 ---
 
-### ⚡ &nbsp;`TECH STACK`
+### 📈 &nbsp;`ACTIVITY GRAPH`
 
 <br/>
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%2307060f?style=for-the-badge&logo=javascript&logoColor=f1e05a)
-![TypeScript](https://img.shields.io/badge/TypeScript-%2307060f?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![Python](https://img.shields.io/badge/Python-%2307060f?style=for-the-badge&logo=python&logoColor=c084fc)
-![C++](https://img.shields.io/badge/C++-%2307060f?style=for-the-badge&logo=cplusplus&logoColor=8a61ff)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushal-24&bg_color=0d0b1a&color=b89cff&line=8a61ff&point=c084fc&area=true&area_color=8a61ff&hide_border=true&title_color=8a61ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
-**Frontend**
+---
 
-![React](https://img.shields.io/badge/React-%2307060f?style=for-the-badge&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-%2307060f?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2307060f?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
-![Figma](https://img.shields.io/badge/Figma-%2307060f?style=for-the-badge&logo=figma&logoColor=c084fc)
-
-<br/>
-
-**Backend & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-%2307060f?style=for-the-badge&logo=nodedotjs&logoColor=6dbf67)
-![Docker](https://img.shields.io/badge/Docker-%2307060f?style=for-the-badge&logo=docker&logoColor=2496ed)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2307060f?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Git](https://img.shields.io/badge/Git-%2307060f?style=for-the-badge&logo=git&logoColor=f05032)
-![GitHub](https://img.shields.io/badge/GitHub-%2307060f?style=for-the-badge&logo=github&logoColor=b89cff)
-![VS Code](https://img.shields.io/badge/VS_Code-%2307060f?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
-
-<br/>
-
-**Video & Creative**
-
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-%2307060f?style=for-the-badge&logo=adobepremierepro&logoColor=9999ff)
-![After Effects](https://img.shields.io/badge/After_Effects-%2307060f?style=for-the-badge&logo=adobeaftereffects&logoColor=c084fc)
-
-<br/>
+<img src="./techstack.svg" width="100%" alt="Tech Stack"/>
 
 ---
 
