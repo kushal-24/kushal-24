@@ -33,24 +33,6 @@
 
 ---
 
-### 📈 &nbsp;`ACTIVITY GRAPH`
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushal-24&bg_color=0d0b1a&color=b89cff&line=8a61ff&point=c084fc&area=true&area_color=8a61ff&hide_border=true&title_color=8a61ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
----
-
 <img src="./techstack.svg" width="100%" alt="Tech Stack"/>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=kushal-24&style=for-the-badge&color=8a61ff&labelColor=0d0b1a&label=PROFILE+VIEWS)
-
-<br/>
-
-*Built with 💜 and way too many late nights*
 
 </div>
