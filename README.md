@@ -35,4 +35,8 @@
 
 <img src="./techstack.svg" width="100%" alt="Tech Stack"/>
 
+<br/><br/>
+
+<img src="./contact.svg" width="100%" alt="Connect with me"/>
+
 </div>
