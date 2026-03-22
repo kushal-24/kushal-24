@@ -1,4 +1,5 @@
-< align="center">
+
+<div align="center">
 <!-- BANNER — hosted as banner.svg in same repo -->
 <img src="./banner.svg" width="100%" alt="Kushal Banner"/>
 
