@@ -10,36 +10,12 @@
 
 <br/>
 
----
-
-### 🛸 &nbsp;`MISSION CONTROL — GITHUB STATS`
-
-<br/>
-
-<a href="https://github.com/kushal-24">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kushal-24&show_icons=true&theme=transparent&hide_border=true&title_color=8a61ff&icon_color=c084fc&text_color=d4c8ff&bg_color=0d0b1a&ring_color=8a61ff&include_all_commits=true&count_private=true"/>
-</a>&nbsp;
-<a href="https://github.com/kushal-24">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-24&layout=compact&theme=transparent&hide_border=true&title_color=8a61ff&text_color=d4c8ff&bg_color=0d0b1a&langs_count=6"/>
-</a>
-
-<br/><br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=kushal-24&theme=transparent&hide_border=true&ring=8a61ff&fire=c084fc&currStreakLabel=b89cff&sideLabels=8a61ff&dates=7068a0&currStreakNum=d4c8ff&sideNums=d4c8ff&background=0d0b1a&stroke=1a1630"/>
-</a>
-
-<br/><br/>
-
----
 
 <img src="./techstack.svg" width="100%" alt="Tech Stack"/>
 
 <br/><br/>
 
-<a href="https://github.com/kushal-24" target="_blank"><img src="./contact-github.svg" width="24%" alt="GitHub"/></a><a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="./contact-linkedin.svg" width="24%" alt="LinkedIn"/></a><a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank"><img src="./contact-instagram.svg" width="24%" alt="Instagram"/></a><a href="mailto:YOUR_EMAIL" target="_blank"><img src="./contact-email.svg" width="24%" alt="Email"/></a>
-
-*Built with 💜 and way too many late nights*
+<a href="https://github.com/kushal-24" target="_blank"><img src="./contact-github.svg" width="24%" alt="GitHub"/></a><a href="https://www.linkedin.com/in/kushal-phadnis-04456b333/" target="_blank"><img src="./contact-linkedin.svg" width="24%" alt="LinkedIn"/></a><a href="https://instagram.com/kushal.__/" target="_blank"><img src="./contact-instagram.svg" width="24%" alt="Instagram"/></a><a href="mailto:kushalphadnis2006@gmail.com" target="_blank"><img src="./contact-email.svg" width="24%" alt="Email"/></a>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8a61ff&height=100&section=footer&text=Eat%20Bugs%20Like%20Pac-Man%20%E2%80%A2%20Build%20Cool%20Things%20%E2%80%A2%20Keep%20Coding&fontSize=18&fontColor=d4c8ff&fontAlignY=65&animation=twinkling"/>
 
