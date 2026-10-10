@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=800&color=8A61FF&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%E2%9C%A6;Shipping+at+hackathon+speed+%E2%9A%A1;Turning+wild+ideas+into+reality+%F0%9F%9A%80;Code.+Create.+Compete.+Repeat.)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kushal-24&color=8a61ff&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/kushal-24?style=for-the-badge&color=8a61ff&labelColor=0d0b1e&logo=github)
-
 </div>
 
 ---
@@ -58,26 +55,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kushal-24&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0b1e" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-24&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0b1e" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal-24&theme=midnight-purple&hide_border=true&background=0d0b1e" alt="Streak"/>
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-kushal--24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushal-24)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushal_Phadnis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-phadnis-04456b333/)
-[![Instagram](https://img.shields.io/badge/Instagram-k.ushal.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/k.ushal.__/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-8a61ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushalphadnis2006@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a61ff,100:0d0b1e&height=100&section=footer&text=Eat%20Bugs%20Like%20Pac-Man%20%E2%80%A2%20Build%20Cool%20Things%20%E2%80%A2%20Keep%20Coding&fontSize=18&fontColor=d4c8ff&fontAlignY=65" width="100%" alt="footer"/>
