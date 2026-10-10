@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0b1e,100:8a61ff&height=220&section=header&text=Kushal%20Phadnis&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Hackathon%20Enthusiast%20%E2%80%A2%20ML%20%26%20GenAI%20Learner&descSize=16&descAlignY=62" width="100%" alt="Kushal Phadnis"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0b1e,100:8a61ff&height=220&section=header&text=Kushal%20Phadnis&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Hackathon%20Enthusiast%20%E2%80%A2%20ML%20and%20GenAI%20Learner&descSize=16&descAlignY=62" width="100%" alt="Kushal Phadnis"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=800&color=8A61FF&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%E2%9C%A6;Shipping+at+hackathon+speed+%E2%9A%A1;Turning+wild+ideas+into+reality+%F0%9F%9A%80;Code.+Create.+Compete.+Repeat.)](https://git.io/typing-svg)
 
